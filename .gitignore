@@ -1,0 +1,8 @@
+# Ignore default clang/gcc executables (like `a.out`)
+a.out
+
+# Ignore build output directories
+/build/
+/bin/
+/out/
+/dist/
