@@ -6,3 +6,7 @@ a.out
 /bin/
 /out/
 /dist/
+
+# Ignore System files
+.DS_Store
+Thumbs.db
